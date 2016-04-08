@@ -1,9 +1,9 @@
 ---
-title: Introduction to Git and Github
+title: Introduction to Git and Github (Event Postponed)
 text: A quick intro to working with Git and Github
 location: N515 Pharmacy Hall, UMB
 link: https://github.com/isop-phmx/studyGroup/issues/4
-date: 2016-04-08
+date: TBD
 startTime: '13:00'
 endTime: '14:30'
 ---
