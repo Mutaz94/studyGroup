@@ -3,7 +3,8 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: Pharmacometrics Study Group \n An International Society of Pharmacometrics Initiative
+title: Pharmacometrics Study Group|
+An International Society of Pharmacometrics Initiative
 description: "A study group."
 language: en
 
