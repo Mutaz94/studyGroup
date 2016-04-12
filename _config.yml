@@ -18,7 +18,7 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://www.dropbox.com/s/qichuthzm2meuv7/isop_hires.png?dl=0"
+titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Initiative of International Society of Pharmacometrics - ISoP - www.go-isop.org!"
 headlineMain: "Let's Work Together"
 
