@@ -3,8 +3,7 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: Pharmacometrics Study Group|
-An International Society of Pharmacometrics Initiative
+title: Pharmacometrics Study Group
 description: "A study group."
 language: en
 
@@ -19,8 +18,8 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome To Our Study Group!"
+titleBackground: "https://www.dropbox.com/s/qichuthzm2meuv7/isop_hires.png?dl=0"
+headlineSmall: "Initiative of International Society of Pharmacometrics - ISoP - www.go-isop.org!"
 headlineMain: "Let's Work Together"
 
 # Setup Google Calendar
