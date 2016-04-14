@@ -1,6 +1,6 @@
 ---
-title: Project workflow in Pharmacometrics
-text: Project organisation structure for various pharmacometric workflows
+title: Project workflow in Pharmacometrics(Event Postponed)
+text: This event has been Postponed and a new date will be updated soon
 location: N515 Pharmacy Hall, UMB
 link: https://github.com/isop-phmx/studyGroup/issues/5
 date: 2016-04-15
