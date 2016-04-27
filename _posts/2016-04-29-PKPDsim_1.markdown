@@ -1,0 +1,9 @@
+---
+title: Introduction to PKPDsim
+text: A library for simulation of systems of differential equations in the pharmacometric setting
+location: San Francisco, CA
+link: https://github.com/isop-phmx/studyGroup/issues/15
+date: 2016-05-29
+startTime: '12:00'
+endTime: '13:00'
+---

@@ -1,9 +1,0 @@
----
-title: Introduction to Git and Github (Event Postponed)
-text: This event has been Postponed and a new date will be updated soon
-location: N515 Pharmacy Hall, UMB
-link: https://github.com/isop-phmx/studyGroup/issues/4
-date: 2016-04-15
-startTime: '13:00'
-endTime: '14:30'
----
