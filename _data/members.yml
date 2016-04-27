@@ -4,3 +4,25 @@
   interests:
     - Clinical Therapeutics
     - Pharmacometrics
+
+- name: Devin Pastoor
+  affiliation: University of Maryland, Baltimore
+  github: dpastoor
+  interests:
+    - Clinical Therapeutics
+    - Pharmacometrics
+
+- name: Ron Keizer
+  affiliation: Pirana, InsightRx
+  github: ronkeizer
+  interests:
+    - Precision Dosing
+    - Pharmacometrics
+    - Software
+
+- name: Kyle Baron
+  affiliation: Metrum Institute
+  github: kylebmetrum
+  interests:
+    - Pharmacometrics
+    - Software

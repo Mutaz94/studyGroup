@@ -39,7 +39,7 @@ watchingCaption: 'Look in the top right-hand corner of <a href="{{ site.github.r
 calendar: Subscribe to our events calendar!
 calendarSubheading: 'We also invite you to follow <a href="{{ site.calendar_embed_url }}" target="https://www.google.com/calendar/embed?src=isoplinks@gmail.com">our calendar</a>, where events will be posted.'
 googleCalendar: 'If you use Google calendar, you can add our calendar by pressing the "Google Calendar" button at the bottom-right of <a href="{{ site.calendar_embed_url }}" target="https://www.google.com/calendar/embed?src=isoplinks@gmail.com">this page</a>.'
-iCal: 'If you use another calendar app, you can copy and paste <a href="{{ site.calendar_ical_url }}">https://www.google.com/calendar/ical/isoplinks@gmail.com/public/basic.ics</a> into any calendar product that supports the iCal format.'
+iCal: 'If you use another calendar app, you can copy and paste <a href="{{ site.calendar_ical_url }}" target="https://www.google.com/calendar/ical/isoplinks@gmail.com/public/basic.ics"></a> into any calendar product that supports the iCal format.'
 
 sayHi: Come Say Hi
 contactSubheading: 'We use GitHub to get coding help, talk about events and share files. Join us there!'
