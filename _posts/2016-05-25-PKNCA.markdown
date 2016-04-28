@@ -1,0 +1,9 @@
+---
+title: Introduction to PKNCA
+text: Automation of Noncompartmental Analysis in R
+location: Online
+link: https://github.com/isop-phmx/studyGroup/issues/17
+date: 2016-05-25
+startTime: '12:00'
+endTime: '13:00'
+---
