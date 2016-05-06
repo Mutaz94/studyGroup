@@ -1,0 +1,9 @@
+---
+title: Simulation from PK/PD and systems pharmacology models in R with mrgsolve
+text: mrgsolve is an open source R package developed by Metrum Institute
+location: YouTube
+link: https://github.com/isop-phmx/studyGroup/issues/24
+date: 2016-05-13
+startTime: '12:00'
+endTime: '13:00'
+---
