@@ -176,7 +176,7 @@ def get_credentials():
     if not os.path.exists(credential_dir):
         os.makedirs(credential_dir)
     credential_path = os.path.join(credential_dir,
-                                   'google-sfuStudyGroupCalendar.json')
+                                   'google-isopStudyGroupCalendar.json')
 
     store = oauth2client.file.Storage(credential_path)
     credentials = store.get()
