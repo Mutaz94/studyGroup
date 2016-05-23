@@ -1,0 +1,9 @@
+---
+title: Introduction to mlxr
+text: Simulation of PKPD systems in R using mlxr package
+location: Online
+link: https://github.com/isop-phmx/studyGroup/issues/25
+date: 2016-05-30
+startTime: '12:00'
+endTime: '13:00'
+---
