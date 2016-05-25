@@ -1,5 +1,5 @@
 ---
-title: Introduction to mlxr
+title: Introduction to mlxR
 text: Easy clinical trial simulation and model visualization in R with the mlxR package
 location: Online
 link: https://github.com/isop-phmx/studyGroup/issues/25
