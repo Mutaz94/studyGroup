@@ -1,9 +1,9 @@
 ---
-title: Fix vs Fit & Safety modeling
-text: Fix vs Fit (Matt Riggs)  & Safety modeling (Melissa)
+title: QSP Series - 3:Fix vs Fit
+text: Fix vs Fit - the eternal debate
 location: Online
 link: https://github.com/isop-phmx/studyGroup/issues/32
 date: 2017-05-19
 startTime: '12:00'
-endTime: '13:00'
+endTime: '12:30'
 ---
