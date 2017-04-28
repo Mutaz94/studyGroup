@@ -1,5 +1,5 @@
 ---
-title: QSP Series - 5: Good Practices in MID3
+title: QSP Series - 5  Good Practices in MID3
 text: Good Practices in MID3 – PM & QSP approaches informing decisions
 location: Online
 link: https://github.com/isop-phmx/studyGroup/issues/33

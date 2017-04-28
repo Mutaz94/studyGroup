@@ -1,5 +1,5 @@
 ---
-title: QSP Series - 7: INTEQUAN software
+title: QSP Series - 7 INTEQUAN software
 text:  INTEQUAN software
 location: Online
 link: https://github.com/isop-phmx/studyGroup/issues/39
