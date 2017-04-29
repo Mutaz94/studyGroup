@@ -1,6 +1,6 @@
 ---
 title: Using ggplotwithyourdata
-text:  An introduction to ggplotwithyourdata Open Source Shiny application 
+text: An introduction to ggplotwithyourdata open source shiny application
 location: Online
 link: https://github.com/isop-phmx/studyGroup/issues/29
 date: 2017-19-02
