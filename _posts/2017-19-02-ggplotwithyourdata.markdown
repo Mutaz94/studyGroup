@@ -1,5 +1,5 @@
 ---
-title: Using R tool - ggplotwithyourdata
+title: Using ggplotwithyourdata
 text:  An introduction to ggplotwithyourdata Open Source Shiny application 
 location: Online
 link: https://github.com/isop-phmx/studyGroup/issues/29
