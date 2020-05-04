@@ -1,4 +1,4 @@
-#Pharmacometrics Study Groups
+# Pharmacometrics Study Groups
 
 Welcome to [International Society of Pharmacometrics](http://www.go-isop.org/)'s Study Group project! From here, we'll set you up with everything you need to get involved in this new exciting study group.
 
